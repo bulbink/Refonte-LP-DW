@@ -240,9 +240,9 @@ if ( isset($plugin_page) ) {
 			require_once(ABSPATH . 'wp-admin/admin-header.php');
 
 		if ( file_exists(WPMU_PLUGIN_DIR . "/$plugin_page") )
-			include(WPMU_PLUGIN_DIR . "/admin.php");
+			include(WPMU_PLUGIN_DIR . "/$plugin_page");
 		else
-			include(WP_PLUGIN_DIR . "/admin.php");
+			include(WP_PLUGIN_DIR . "/$plugin_page");
 	}
 
 	include(ABSPATH . 'wp-admin/admin-footer.php');

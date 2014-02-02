@@ -1,0 +1,46 @@
+/*
+Theme Name: Simplicity
+Theme URI: http://demo.qodeinteractive.com/simplicity/
+Description: Simplicity Theme
+Tags: flat, smooth, smooth scroll, modern, interactive, parallax, multi-purpose, ajax, retina, responsive, creative, portfolio, blog, wpml
+Author: Qode Interactive
+Author URI: http://www.qodeinteractive.com/
+Version: 1.0.3
+License: GNU General Public License
+License URI: licence/GPL.txt
+
+*/
+
+/*
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+Changelog
+
+1.0.3
+- Fixed WP 3.8 notices
+- Updated LayerSlider to version 4.6.6
+
+1.0.2
+- Updated smooth scroll on/off logic to choose between all devices and all without Mac devices (all devices are not including touch devices)
+- Updated vieport meta tag for non responsive sites
+- Updated LayerSlider to version 4.6.5
+- Fixed centered logo on scroll
+- Fixed color bars number in footer
+- Fixed home.php title bug
+- Fixed horizontal scroll bug on iPhone
+- Fixed mobile 3rd level menu separators bug
+- Fixed contact page when recaptcha is enable
+- Fixed overflow on of footer on touch devices
+- Fixed deliting of custom sidebars
+- Fixed portfolio list for new version of Chrome
+- Remove ie9.css file because it's empty
+
+1.0.1
+- Fixed smooth scroll
+- Fixed third level menu flyout on boxed layout
+- Fixed social widget sidebar on last two sizes
+- Fixed logo size on last two sizes
+- Fixed w3c validation html errors
+- 
+
+*/
