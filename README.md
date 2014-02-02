@@ -15,3 +15,14 @@ Les points à prendre en compte a minima :
 •	Espace étudiants
 •	Espace RV pour portes ouvertes et événements (ie : portes ouvertes virtuelles)
 •	Autres (les propositions constructives, réalistes et réalisables sont les bienvenues)
+
+Membres de l'équipe
+===================
+
+Younes Barhouni  --> Project Manager
+
+Michel Bashares  --> Backend Developer
+
+Nicolas Journaud --> Backend Developer
+
+Emma Moreau      --> Frontend developer - designer
